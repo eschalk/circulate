@@ -80,12 +80,13 @@ The following third party services are used:
 * Imagekit for image resizing and manipulation
 
 ## Development
->**Em's notes about setup**:
-> - Make sure using right version of Node via mise
-> - Make sure using right version of yarn via mise
-> - brew install coreutils 
 
 Once you've completed the setup below, you can login to the app using `admin@example.com` and `password` to see the admin interface.
+
+### Em's notes about setup
+* Make sure using right version of Node via mise
+* Make sure using right version of yarn via mise
+* Run `brew install coreutils`
 
 ### Setting up Circulate on your machine
 
