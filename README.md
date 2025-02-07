@@ -80,7 +80,7 @@ The following third party services are used:
 * Imagekit for image resizing and manipulation
 
 ## Development
-<table><tr><td>Em's notes about setup</td></tr></table>
+>Em's notes about setup
 
 Once you've completed the setup below, you can login to the app using `admin@example.com` and `password` to see the admin interface.
 
